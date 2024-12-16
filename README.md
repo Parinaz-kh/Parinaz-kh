@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parinaz-kh
 - 👀 I’m interested in Computational neuroscience
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Any statistical or Experimental tasks
+- 💞️ I’m looking to collaborate on any statistical or Experimental tasks
 - 📫 How to reach me -> parinaz.khosravaani@gmail.com
 
 <!---
